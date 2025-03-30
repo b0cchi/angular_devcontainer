@@ -1,3 +1,3 @@
-FROM node:14.15.0
+FROM node:23.10.0
 
-RUN npm install -g @angular/cli@12.0.4
+RUN npm install -g @angular/cli
